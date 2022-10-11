@@ -49,6 +49,33 @@ li {
     background-size: cover;
 }
 
+.block--top {
+    padding: 1em;
+    color: #767676;
+    text-align: center;
+    background-color: #fffaf0;
+}
+
+list {
+
+}
+
+.list--inline {
+    display: inline;
+}
+
+.list-item {
+    display: inline;
+}
+
+.list-item--active {
+    font-weight: bold;
+}
+
+.lang-switcher {
+    color: darkgray;
+}
+
 .action {
     margin-top: 3em;
     text-align: center;
